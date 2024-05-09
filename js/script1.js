@@ -41,6 +41,6 @@ text('University Life in the Roaring 20s',600,150);
 
 function mousePressed(){
   if (mouseX >= 550 && mouseX <= 650 && mouseY>=725 && mouseY<=775){
-    window.location.href = "2index.html";
+    window.location.href = "index2.html";
   }
 }

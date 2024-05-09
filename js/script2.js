@@ -258,21 +258,21 @@ image(lays, x5, 390, 20, 40);
  }
  function mousePressed(){
   if (mouseX >= 455 && mouseX <= 745 && mouseY>=210 && mouseY<=290){
-    window.location.href = "3index.html";
+    window.location.href = "index3.html";
   }
 
 
   if (mouseX >= 455 && mouseX <= 745 && mouseY>=390 && mouseY<=490){
-    window.location.href = "4index.html";
+    window.location.href = "index4.html";
   }
 
 
   if (mouseX >= 455 && mouseX <= 745 && mouseY>=510 && mouseY<=590){
-    window.location.href = "5index.html";
+    window.location.href = "index5.html";
   }
 
 
   if (mouseX >= 555 && mouseX <= 645 && mouseY>=660 && mouseY<=680){
-    window.location.href = "1index.html";
+    window.location.href = "index1.html";
   }
 }

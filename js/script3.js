@@ -64,7 +64,7 @@ if (mouseIsPressed) {
 }
 function mousePressed(){
   if (mouseX >= 675 && mouseX <= 775 && mouseY>=725 && mouseY<=775){
-    window.location.href = "2index.html";
+    window.location.href = "index2.html";
   }
 
 }
